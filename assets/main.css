@@ -167,3 +167,39 @@ body {
   margin-bottom: 10px;
   width: 50px;
 }
+
+/*
+=========================================
+Typography
+=========================================
+*/
+h1,
+p {
+  color: #ffffff;
+  font-family: sans-serif;
+  margin-bottom: 22px;
+}
+h1 {
+  text-shadow: 2px 2px #000000;
+  float: left;
+  font-size: 2.5em;
+  font-family: "crete Round", sans-serif;
+}
+p {
+  clear: both;
+  color: #ffffff;
+  font-size: 14px;
+  line-height: 22px;
+}
+/* 
+========================================
+Footer 
+========================================
+*/
+footer a {
+  color: #ffffff;
+}
+i {
+  margin-right: 30px;
+  font-size: 30px;
+}
